@@ -1,27 +1,28 @@
-# Hi, I'm Atifa Tahreem! 👋
+# Hi, I'm Atifa Tahreem 👋  
 
-I’m a 13-year-old self-taught Python developer who loves experimenting with code and learning new tools every day.
-
----
-
-###  A Bit About Me
-- Passionate about building small projects with big ideas  
-- Continually exploring Python scripting, automation, and creative problem-solving  
-- Always curious, always coding
+I’m a 13-year-old programmer who loves building cool projects and learning new things.  
+I created **TLML (Turbo Lightweight Markup Language)** — a simple markup language that converts to HTML.  
 
 ---
 
-###  This Space Is For...
-- Quick thoughts on coding or creativity  
-- Fun experiments or mini-projects  
-- A place to share what I'm exploring next
+## ✨ What I Do
+- Build tools and small projects for fun  
+- Experiment with new programming ideas  
+- Share my work here on GitHub  
 
 ---
 
-###  Connect with Me
-- GitHub: [@turboatifa](https://github.com/turboatifa)  
-- Always open to ideas, collaborations, or just saying hi!
+## 🔥 My Highlights
+- 🌟 Creator of **TLML**, a custom markup language  
+- 🛠️ Made a **VS Code extension** for live preview of TLML  
+- 🎮 Like to make fun side projects and games  
+- 📚 Always exploring new tech and improving skills  
 
 ---
 
-> “Every new line of code is a step toward something amazing.”
+## 📊 GitHub Stats
+![Atifa's GitHub stats](https://github-readme-stats.vercel.app/api?username=turboatifa&show_icons=true&theme=radical)  
+
+---
+
+⭐ If you enjoy my work, don’t forget to star my repos!  
