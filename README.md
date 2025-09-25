@@ -1,5 +1,3 @@
-# Hi, I'm Atifa Tahreem 👋  
-
 I’m a 13-year-old programmer who loves building cool projects and learning new things.  
 I created **TLML (Turbo Lightweight Markup Language)** — a simple markup language that converts to HTML.  
 
