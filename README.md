@@ -17,10 +17,4 @@ I created **TLML (Turbo Lightweight Markup Language)** — a simple markup langu
 - 📚 Always exploring new tech and improving skills  
 
 ---
-
-## 📊 GitHub Stats
-![Atifa's GitHub stats](https://github-readme-stats.vercel.app/api?username=turboatifa&show_icons=true&theme=radical)  
-
----
-
 ⭐ If you enjoy my work, don’t forget to star my repos!  
