@@ -1,20 +1,52 @@
-I’m a 13-year-old programmer who loves building cool projects and learning new things.  
-I created **TLML (Turbo Lightweight Markup Language)** — a simple markup language that converts to HTML.  
+# 👋 Hey there, welcome to my GitHub!
 
----
+So… what’s going on here?  
+Well, not a startup. Not a secret lab. Just me — exploring code, breaking stuff, fixing it, and having fun along the way 😎
 
-## ✨ What I Do
-- Build tools and small projects for fun  
-- Experiment with new programming ideas  
-- Share my work here on GitHub  
+## 🧠 What I Know (So Far)
 
----
+I’ve been playing with:
 
-## 🔥 My Highlights
-- 🌟 Creator of **TLML**, a custom markup language  
-- 🛠️ Made a **VS Code extension** for live preview of TLML  
-- 🎮 Like to make fun side projects and games  
-- 📚 Always exploring new tech and improving skills  
+- 🐍 **Python** — for writing logic, making things happen, and sometimes confusing myself with indentation
+- ⚡ **JavaScript** — for adding magic to websites and making buttons do cool things
+- 🌐 **HTML** — the skeleton of the web, and yes, I’ve made a few pages that look like they were born in 2003
 
----
-⭐ If you enjoy my work, don’t forget to star my repos!  
+## 🎨 What You’ll Find Here
+
+- Tiny projects that do tiny things  
+- Code that works (most of the time)  
+- Random experiments that started with “what if…”  
+- Files with names like `test1.py`, `final_final_v2.html`, and `idk.js`  
+- Occasional brilliance mixed with occasional chaos
+
+## 🤹‍♀️ My Coding Style
+
+- Write → run → error → panic → fix → celebrate 🎉  
+- Google is my best friend  
+- Stack Overflow is my second home  
+- I talk to my code like it’s a person (and yes, sometimes it listens)
+
+## 💻 My Mood While Coding
+
+![Coding Mood](https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif)
+
+## 🧃 Why I’m Here
+
+Because coding is fun.  
+Because it feels like magic.  
+Because I like making things that didn’t exist before.  
+And because every time I learn something new, I feel like I unlocked a secret level in life.
+
+## 🐾 Random Facts
+
+- I’ve written code at 2am just to see if it works  
+- I’ve deleted things I shouldn’t have  
+- I’ve fixed bugs I didn’t understand  
+- I’ve made websites that only I will ever visit  
+- And I’m totally okay with that
+
+## 🙌 Thanks for Visiting
+
+If you scrolled this far, you’re awesome.  
+Feel free to explore, fork, star, or just vibe with the chaos.  
+No pressure. No rules. Just code.
